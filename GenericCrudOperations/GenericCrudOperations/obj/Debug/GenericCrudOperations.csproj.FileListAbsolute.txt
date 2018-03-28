@@ -1,0 +1,6 @@
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\bin\Debug\GenericCrudOperations.exe.config
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\obj\Debug\GenericCrudOperations.csprojResolveAssemblyReference.cache
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\bin\Debug\GenericCrudOperations.exe
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\bin\Debug\GenericCrudOperations.pdb
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\obj\Debug\GenericCrudOperations.exe
+c:\users\ajay.komirishetty\documents\visual studio 2015\Projects\GenericCrudOperations\GenericCrudOperations\obj\Debug\GenericCrudOperations.pdb
